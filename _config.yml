@@ -20,13 +20,14 @@
 
 title: Varun Varadarajan
 author: Varun Varadarajan
+remove-ads: true
 
 # Build settings
 remote-theme: beautiful-jekyll
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Recipes:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
 
