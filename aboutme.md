@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-subtitle: Get to know me better
+title: About US
+subtitle: Get to know us better
 permalink: /aboutme/
 ---
 
