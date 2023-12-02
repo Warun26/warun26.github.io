@@ -1,8 +1,7 @@
 ---
-layout: page
-title: About US
-subtitle: Get to know us better
-permalink: /aboutus/
+layout: blog
+title: Blog
+permalink: /blog/
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)

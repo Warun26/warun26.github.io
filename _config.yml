@@ -26,10 +26,10 @@ remove-ads: false
 remote-theme: beautiful-jekyll
 
 navbar-links:
-  About US: "aboutus"
-  Blog:
-    - Recipes: "https://warun26.github.io/blog"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Blog: "Blog"
+  # Blog:
+  #  - Recipes: "https://warun26.github.io/blog"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
