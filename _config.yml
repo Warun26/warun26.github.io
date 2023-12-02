@@ -26,7 +26,7 @@ remove-ads: false
 remote-theme: beautiful-jekyll
 
 navbar-links:
-  Home: ""
+  Home: "https://warun26.github.io"
   Blog: "blog"
   # Blog:
   #  - Recipes: "https://warun26.github.io/blog"
