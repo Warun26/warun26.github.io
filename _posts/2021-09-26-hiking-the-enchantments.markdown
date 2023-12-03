@@ -10,6 +10,7 @@ On September 26, 2021, I embarked on an awe-inspiring adventure through the Ench
 ## Trail Details
 The trail, a non-loop route, offered a thrilling journey that began at the Colchuck Lake Trailhead and concluded at the Snow Lake Trailhead. Departing at the crack of dawn at 5 AM, we set out to explore this majestic terrain and it was almost 7.15PM when we reached the Snow Lake Trailhead parking lot. One key aspect to note is that while permits are required for overnight stays, day hikes like the one I undertook do not necessitate permits, making it accessible for spontaneous adventures.
 
+[![Colchuck Lake](/assets/img/blog/ColchuckLake.jpg)](/assets/img/blog/ColchuckLake.jpg)
 
 ### Trailhead access
 Located close to Leavenworth, Washington, the trailhead is conveniently accessible via shuttle services. [Leavenworth Shuttle Services](https://www.leavenworthshuttle.com/mountain) and [Loop Connector](https://loopconnectorshuttle.com/) Shuttle offer reliable transport options, enabling easy access for hikers seeking to explore this natural wonder.
@@ -26,6 +27,8 @@ Elevation Gain: Starting at Colchuck Lake Trailhead allowed for an initial ascen
 
 Asgard Pass Descent: Descending Asgard Pass can pose challenges due to loose gravel, making it slippery. Selecting the route ending at Snow Lake Trailhead avoided this descent, offering a safer and more manageable conclusion to the hike.
 
+[![Asgard Pass](/assets/img/blog/AsgardPass.jpg)](/assets/img/blog/AsgardPass.jpg)
+
 ## Trail Highlights
 
 The Enchantments trail captivates adventurers with its diverse landscapes, from pristine lakes to panoramic vistas. The enchanting alpine scenery, vibrant foliage, and occasional glimpses of wildlife make every step a testament to nature's grandeur.
@@ -34,6 +37,8 @@ The Enchantments trail captivates adventurers with its diverse landscapes, from 
 My trek through the Enchantments on that crisp September morning remains a vivid and exhilarating memory. The trail's proximity to Leavenworth, coupled with accessible shuttle services and the option for a two-car solution, makes it an enticing destination for outdoor enthusiasts.
 
 For those planning to explore this trail, be mindful of permit requirements for overnight stays, and consider the Colchuck Lake Trailhead start for a smoother ascent and a safer descent from Asgard Pass.
+
+[![Perfection Lake](/assets/img/blog/PerfectionLake.jpg)](/assets/img/blog/PerfectionLake.jpg)
 
 ## Resources
 
