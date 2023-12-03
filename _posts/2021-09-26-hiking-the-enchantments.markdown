@@ -2,6 +2,8 @@
 layout: post
 title:  "Hiking the Enchantments: A Journey Through Washington's Spectacular Wilderness"
 date:   2023-12-01 09:00:00 -0800
+tags: [travel, trekking, hiking, exploration, washington, enchantments]
+share-img: "/assets/img/blog/AsgardPass.jpg"
 categories: Travel & Hiking
 ---
 
