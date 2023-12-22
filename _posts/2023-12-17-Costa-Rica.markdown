@@ -40,8 +40,6 @@ After relaxing at our Airbnb, we drove 20 minutes to famous Tabacon Hot Springs.
 
 ## Day 3: Monteverde's Coffee, Chocolate & Canopy Tour 
 
-![](/assets/img/blog/costarica/arenal.mov)
-
 We started early to hike the scenic [Mystico Hanging Bridges](https://www.monteverdehangingbridges.com/) trail before leaving La Fortuna. The drive to Monteverde took around 3 hours but was broken up with incredible mountain vistas. In the afternoon we toured [Don Juan Coffee Farm](https://www.donjuancoffeetour.com/) and learned the full process while tasting chocolate and pressed sugar cane juice.   
 
 [![Mystico Hanging Bridges](/assets/img/blog/costarica/mistico.png)](/assets/img/blog/costarica/mistico.png)
@@ -65,7 +63,7 @@ The early morning drive to [Manuel Antonio National Park](https://www.manuelanto
 We booked a morning entry to enjoy Manuel Antonio's beaches again before taking a boat across a mangrove-lined channel. The few hour kayaking and hiking tour of [Damas Island](https://www.quepolandia.com/tours/mangrove-damas-island-estuary-kayak/) had just one other couple joining us and our guide William. We learned about the area's unique ecosystems and wildlife while paddling calmly though the scenery and sharing travel stories with our new friends. 
 
 ## Planning for Next Visit!
-Due to time constraints we had to skip [Rio Celeste](https://www.anywhere.com/costa-rica/attractions/rio-celeste) waterfall with its brilliant blue water caused by volcanic minerals. And we only had glimpses of active [Volcan Arenal's](https://www.arenal.net/) top from afar. Costa Rica far exceeded our expectations for biodiversity and friendly people (Ticos) so we're already planning to return to see more of this spectacular country!
+Due to time constraints we had to skip [Rio Celeste](https://www.tripadvisor.com/Attraction_Review-g3333781-d2401016-Reviews-Rio_Celeste-Tenorio_Volcano_National_Park_Province_of_Guanacaste.html) waterfall with its brilliant blue water caused by volcanic minerals. And we only had glimpses of active [Volcan Arenal's](https://www.arenal.net/) top from afar. Costa Rica far exceeded our expectations for biodiversity and friendly people (Ticos) so we're already planning to return to see more of this spectacular country!
 
 ## FAQ
 
