@@ -8,7 +8,7 @@ categories: Travel & Hiking
 
 
 ## Day 0: Arrival in San Jose
-We landed at [Juan Santamaria International Airport (SJO)](https://www.tripsavvy.com/san-jose-airport-guide-4171973) in the afternoon and picked up our rental SUV from [Alamo](https://www.alamo.com/en_US/car-rental/locations/costa-rica/san-jose-airport.html). Being from the US, driving on the right side of the road already felt natural. We stayed at the stylish [AC Hotel](https://www.marriott.com/hotels/travel/sjoah-ac-hotel-san-jose-escazu/) in Heredia Belen, located next to a Starbucks which was perfect for grabbing coffee and breakfast the next morning.
+We landed at Juan Santamaria International Airport (SJO) in the night and picked up our rental SUV from Alamo. Being from the US, driving on the right side of the road already felt natural. We stayed at the stylish AC Hotel in Heredia Belen, located next to a Starbucks which was perfect for grabbing coffee and breakfast the next morning.
 
 ## Day 1: Poas Volcano's Massive Crater & La Paz Waterfalls
 
