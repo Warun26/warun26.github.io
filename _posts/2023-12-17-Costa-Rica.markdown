@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Costa Rica: My Week in Paradise"
+title:  "Costa Rica: Our Week in Paradise"
 date:   2023-12-07 21:00:00 -0800
 tags: [travel, trekking, hiking, exploration, costa rica]
 categories: Travel & Hiking
