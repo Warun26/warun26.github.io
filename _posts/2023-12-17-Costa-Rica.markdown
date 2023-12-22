@@ -6,28 +6,31 @@ tags: [travel, trekking, hiking, exploration, costa rica]
 categories: Travel & Hiking
 ---
 
+
 ## Day 0: Arrival in San Jose
-We landed at Juan Santamaria International Airport (SJO) in the afternoon and picked up our rental SUV from Alamo. Driving on the right side of the road took some getting used to but felt comfortable after a few minutes. We stayed at the stylish AC Hotel in Heredia Belen, located next to a Starbucks which was perfect for grabbing coffee and breakfast the next morning.
+We landed at [Juan Santamaria International Airport (SJO)](https://www.tripsavvy.com/san-jose-airport-guide-4171973) in the afternoon and picked up our rental SUV from [Alamo](https://www.alamo.com/en_US/car-rental/locations/costa-rica/san-jose-airport.html). Being from the US, driving on the right side of the road already felt natural. We stayed at the stylish [AC Hotel](https://www.marriott.com/hotels/travel/sjoah-ac-hotel-san-jose-escazu/) in Heredia Belen, located next to a Starbucks which was perfect for grabbing coffee and breakfast the next morning.
 
 ## Day 1: Poas Volcano's Massive Crater & La Paz Waterfalls
 
 [![Poas Valley](/assets/img/blog/costarica/poas.png)](/assets/img/blog/costarica/poas.png)
 
-After breakfast at Starbucks, we made the hour drive to Poas Volcano National Park. Our 8:40am ticket time ensured we beat the crowds. Unfortunately heavy fog obscured views of the world's second widest volcanic crater over a mile across. The sulfuric smell reminded us we were standing atop an active volcano.  
-
-Next we drove 30 minutes to La Paz Waterfall Gardens and spent over 3 hours hiking the trails and viewing 4 unique waterfalls up to 210 ft tall. We hiked through the gardens where we saw monkeys and sleepy sloths in rehabilitation (However, sice they were caged, we still felt that they were in captivity). Nonetheless, you can directly hike to all the four waterfalls which is exhilarting. Before leaving we enjoyed delicious sweet corn and fresh coconut water sold by vendors outside the park (Close to Laz Paz falls which is about 2 miles downhill from the park).  
+After breakfast at Starbucks, we made the hour drive to [Poas Volcano National Park](https://www.govisitcostarica.com/region/city.asp?cID=14). Our 8:40am ticket time ensured we beat the crowds. Unfortunately heavy fog obscured views of the world's second widest volcanic crater over a mile across. The sulfuric smell reminded us we were standing atop an active volcano.
 
 [![La Paz Gardens](/assets/img/blog/costarica/lapaz-1.png)](/assets/img/blog/costarica/lapaz-1.png)
 
-The scenic drive to La Fortuna took just over 2 hours. Our jaw dropped when we walked into our gorgeous [Rainforest Beehive Home](https://www.airbnb.com/rooms/902365718352149376?source_impression_id=p3_1702959295_MeaMQReVnuO%2BRbun) crafted to blend into nature. The unique hexagonal open air design was an unforgettable place to stay. 
+Next we drove 30 minutes to [La Paz Waterfall Gardens](https://www.govisitcostarica.com/region/city.asp?cID=14) and spent over 3 hours hiking the trails and viewing 4 unique waterfalls up to 210 ft tall. The highlights included seeing playful monkeys and sleepy sloths in rehabilitation. Before leaving we enjoyed delicious sweet corn and fresh coconut water sold by vendors outside.
 
 [![La Paz Falls](/assets/img/blog/costarica/lapaz-2.png)](/assets/img/blog/costarica/lapaz-2.png)
 
+The scenic drive to La Fortuna took just over 2 hours. Our jaw dropped when we walked into our gorgeous [Rainforest Beehive Home](https://www.airbnb.com/rooms/3482139) crafted to blend into nature. The unique hexagonal open air design was an unforgettable place to stay.
+
+The scenic drive to La Fortuna took just over 2 hours. Our jaw dropped when we walked into our gorgeous [Rainforest Beehive Home](https://www.airbnb.com/rooms/902365718352149376?source_impression_id=p3_1702959295_MeaMQReVnuO%2BRbun) crafted to blend into nature. The unique hexagonal open air design was an unforgettable place to stay. 
+
+[![Beehive](/assets/img/blog/costarica/beehive.jpeg)](/assets/img/blog/costarica/beehive.jpeg)
+
 ## Day 2: Whitewater Adventure & Tabacon Hot Springs  
 
-[![Beehive](/assets/img/blog/costarica/beehive.png)](/assets/img/blog/costarica/beehive.png)
-
-We started our day with a 9am pick up for whitewater rafting on the Balsa River's class III rapids. [Arenal Rafting]() provided transportation and all the gear. Halfway through our guide helped us try exotic fruits like mamón chino on the river bank. Back on land, they served us an authentic casado lunch with vegetables, rice and beans.   
+We started our day with a 9am pick up for whitewater rafting on the Balsa River's class III rapids with [Arenal Rafting Company](https://arenalrafting.com/). They provided transportation and all gear. Halfway through our guide helped us try exotic fruits like mamón chino on the river bank. Back on land, they served us an authentic casado lunch with vegetables, rice and beans.   
 
 [![Arenal Rafting](/assets/img/blog/costarica/arenal-rafting.jpeg)](/assets/img/blog/costarica/arenal-rafting.jpeg)
 
@@ -37,14 +40,14 @@ After relaxing at our Airbnb, we drove 20 minutes to famous Tabacon Hot Springs.
 
 ## Day 3: Monteverde's Coffee, Chocolate & Canopy Tour 
 
-[![Arenal](/assets/img/blog/costarica/arenal.mov)](/assets/img/blog/costarica/arenal.mov)
+![](/assets/img/blog/costarica/arenal.mov)
 
-We started early to hike the scenic Mystico Hanging Bridges trail before leaving La Fortuna. The drive to Monteverde took around 3 hours but was broken up with incredible mountain vistas. In the afternoon we toured Don Juan Coffee Farm and learned the full process while tasting chocolate and pressed sugar cane juice.   
+We started early to hike the scenic [Mystico Hanging Bridges](https://www.monteverdehangingbridges.com/) trail before leaving La Fortuna. The drive to Monteverde took around 3 hours but was broken up with incredible mountain vistas. In the afternoon we toured [Don Juan Coffee Farm](https://www.donjuancoffeetour.com/) and learned the full process while tasting chocolate and pressed sugar cane juice.   
 
 [![Mystico Hanging Bridges](/assets/img/blog/costarica/mistico.png)](/assets/img/blog/costarica/mistico.png)
 
 ## Day 4: Zip Lining Over the Cloud Forest by Day...
-We met our guides at the Original Canopy Tour to gear up for ziplining over the lush cloud forest, getting butterflies in our stomach the first time stepping off the platform. The Superman zipline position felt like really flying! In between lines we had time to take pictures on observation decks overlooking gorgeous scenery.  
+We met our guides at the [Original Canopy Tour](https://www.monteverdeextremo.com/canopy-zip-line-tour-monteverde-costa-rica-en/) to gear up for ziplining over the lush cloud forest, getting butterflies in our stomach the first time stepping off the platform. In between lines we had time to take pictures on observation decks overlooking gorgeous scenery.
 
 [![Monte Verde](/assets/img/blog/costarica/monteverde.png)](/assets/img/blog/costarica/monteverde.png)
 
@@ -55,11 +58,19 @@ After relaxing at a local brewery, we went on a 2 hour night hike into Monteverd
 
 [![Manuel Antonio](/assets/img/blog/costarica/manuel-antonio.png)](/assets/img/blog/costarica/manuel-antonio.png)
 
-The early morning drive to Manuel Antonio National Park took about 3 hours. We joined groups of monkeys on the park's idyllic white sand beaches surrounded by palm trees and blue waters. Further in we spotted three-toed sloths and white-faced capuchin monkeys playing in the trees. Toucans flew casually overhead as we hiked 2 miles admiring wildlife and rainforest. For dinner we ate at the popular Manuel Antonio Falafel Bar.
+The early morning drive to [Manuel Antonio National Park](https://www.manuelantoniopark.com/) took about 3 hours. We joined groups of monkeys on the park's idyllic white sand beaches surrounded by palm trees and blue waters. Further in we spotted three-toed sloths and white-faced capuchin monkeys playing in the trees. Toucans flew casually overhead as we hiked 2 miles admiring wildlife and rainforest. For dinner we ate at the popular [Manuel Antonio Falafel Bar](https://www.facebook.com/ManuelAntonioFalafelBar/).
 
 
 ## Day 6: Kayaking Rainforest Channels with New Friends
-We booked a morning entry to enjoy Manuel Antonio's beaches again before taking a boat across a mangrove-lined channel. The few hour kayaking and hiking tour of Damas Island had just one other couple joining us and our guide William. We learned about the area's unique ecosystems and wildlife while paddling calmly though the scenery and sharing travel stories with our new friends.  
+We booked a morning entry to enjoy Manuel Antonio's beaches again before taking a boat across a mangrove-lined channel. The few hour kayaking and hiking tour of [Damas Island](https://www.quepolandia.com/tours/mangrove-damas-island-estuary-kayak/) had just one other couple joining us and our guide William. We learned about the area's unique ecosystems and wildlife while paddling calmly though the scenery and sharing travel stories with our new friends. 
 
 ## Planning for Next Visit!
-Due to time constraints we had to skip Rio Celeste waterfall with its brilliant blue water caused by volcanic minerals. And we only had glimpses of active Volcan Arenal's top from afar. Costa Rica far exceeded our expectations for biodiversity and friendly people (Ticos) so we're already planning to return to see more of this spectacular country!
+Due to time constraints we had to skip [Rio Celeste](https://www.anywhere.com/costa-rica/attractions/rio-celeste) waterfall with its brilliant blue water caused by volcanic minerals. And we only had glimpses of active [Volcan Arenal's](https://www.arenal.net/) top from afar. Costa Rica far exceeded our expectations for biodiversity and friendly people (Ticos) so we're already planning to return to see more of this spectacular country!
+
+## FAQ
+
+**How much cash should I carry?**
+While most places accepted credit/debit cards, having local currency was useful for paying small vendors, tolls, and tipping. We withdrew about $120 USD worth of Costa Rican Colones (roughly 50,000 CRC) for the week which covered all of our cash needs comfortably.
+
+**Is driving difficult in Costa Rica?**
+The road conditions vary but overall driving was very manageable, especially in a 4x4 rental vehicle. Most roads are two lanes so build in extra time for potential traffic jams. Just make sure to have a valid driver's license and be prepared to pay tolls and fines in cash.
